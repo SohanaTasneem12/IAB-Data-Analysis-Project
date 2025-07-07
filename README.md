@@ -58,7 +58,7 @@ This project analyzes companies registered with the **Institute of Architects Ba
 **Sohana Tasneem**  
 Data Analyst & Business Intelligence Enthusiast  
 📍 Based in Bangladesh  
-📎 [LinkedIn / Portfolio link] *(Optional)*
+📎 [[LinkedIn](https://www.linkedin.com/in/sohanatasneem/)] *(Optional)*
 
 ---
 
